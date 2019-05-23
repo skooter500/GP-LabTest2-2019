@@ -14,8 +14,8 @@ Here is a video of the sketch you will be making today (click the picture for th
 - When the sketch starts, the message displayed is "Enter 4 digit code"
 - The code is 9293
 - If the user clicks the sequence 9293, the message changes to "Correct" in green
-- If the user clicks a different sequence of numbers, the message changes to Incorrect in red
-- To get full marks in the test, you should at least one ArrayList (you probably need 2), and make a class for the Buttons
+- If the user clicks a different sequence of numbers, the message changes to "Incorrect" in red
+- To get full marks in the test, you should at least one ArrayList, and make a class for the Buttons
 
 Some tips:
 
@@ -31,7 +31,7 @@ When you are finished, zip up your sketch folder and make sure the zip file is n
 
 | Feature | Marks |
 |---------|-------|
-| The Button class | 30 |
+| The Button class | 30 marks |
 | Arranging the buttons in a circle | 20 marks |
 | Detecting the button clicks | 20 marks |
 | Storing the sequence of button clicks | 10 marks |
